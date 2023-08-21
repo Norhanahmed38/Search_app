@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitSearch</string>
+    <string name="profile">Profile</string>
+    <string name="no_users">No users found</string>
+    <string name="no_internet">No internet connection, please try again later.</string></resources>
